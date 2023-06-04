@@ -1,0 +1,27 @@
+{
+  "name": "win98",
+  "displayName": "Win98",
+  "description": "A theme for Windows 98",
+  "publisher": "realvisualstudio19",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "icon": "icons/head.png",
+  "author": {
+      "name":"Simon Binyamin",
+      "email": "simon.m.binyamin@gmail.com"
+    },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "win98",
+        "uiTheme": "vs",
+        "path": "./themes/win98-color-theme.json"
+      }
+    ]
+  }
+}
