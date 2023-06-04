@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.78.0"
   },
-  "icon": "icons/head.png",
+  "icon": "icons/ic.png",
   "author": {
       "name":"Simon Binyamin",
       "email": "simon.m.binyamin@gmail.com"
